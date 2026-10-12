@@ -7,6 +7,7 @@ Mes skills Claude Code personnels, chargés automatiquement au début de chaque 
 - `find-skills` — vercel-labs/skills
 - `deploy-to-vercel`, `vercel-*`, `web-design-guidelines`, `writing-guidelines` — vercel-labs/agent-skills
 - `supabase`, `supabase-postgres-best-practices` — supabase/agent-skills
+- `shadcn` — shadcn-ui/ui
 
 Les sources exactes sont dans `skills-lock.json`.
 

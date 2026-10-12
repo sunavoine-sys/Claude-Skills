@@ -110,6 +110,15 @@
       "pluginName": "postgres-best-practices",
       "installedAt": "2026-10-12T13:32:28.174Z",
       "updatedAt": "2026-10-12T13:32:28.174Z"
+    },
+    "shadcn": {
+      "source": "shadcn-ui/ui",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/shadcn-ui/ui.git",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "skillFolderHash": "da388f632cd83783c02967446e21941c9ee8291ccb43ba74c23f7d4e9b7c298c",
+      "installedAt": "2026-10-12T13:47:13.445Z",
+      "updatedAt": "2026-10-12T13:47:13.445Z"
     }
   },
   "dismissed": {}
