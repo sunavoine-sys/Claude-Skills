@@ -109,7 +109,7 @@
       "skillFolderHash": "e14e276241805c97dbcfe40dcbea1a3035269cc7293cac4b1832dda41a835e60",
       "pluginName": "postgres-best-practices",
       "installedAt": "2026-10-12T13:32:28.174Z",
-      "updatedAt": "2026-10-12T13:32:28.174Z"
+      "updatedAt": "2026-10-12T13:49:54.775Z"
     },
     "shadcn": {
       "source": "shadcn-ui/ui",
@@ -129,6 +129,15 @@
       "pluginName": "example-skills",
       "installedAt": "2026-10-12T13:49:26.863Z",
       "updatedAt": "2026-10-12T13:49:26.863Z"
+    },
+    "drizzle-orm-expert": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sickn33/agentic-awesome-skills.git",
+      "skillPath": "skills/drizzle-orm-expert/SKILL.md",
+      "skillFolderHash": "4fb8d5fd0e18f04a5fdd41dcbac883beabdd0cf4959fbdd51f2f854c6130cfcf",
+      "installedAt": "2026-10-12T13:50:26.189Z",
+      "updatedAt": "2026-10-12T13:50:26.189Z"
     }
   },
   "dismissed": {}

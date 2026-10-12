@@ -9,6 +9,7 @@ Mes skills Claude Code personnels, chargés automatiquement au début de chaque 
 - `supabase`, `supabase-postgres-best-practices` — supabase/agent-skills
 - `shadcn` — shadcn-ui/ui
 - `frontend-design` — anthropics/skills
+- `drizzle-orm-expert` — sickn33/agentic-awesome-skills
 
 Les sources exactes sont dans `skills-lock.json`.
 
