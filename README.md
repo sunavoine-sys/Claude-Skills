@@ -11,6 +11,7 @@ Mes skills Claude Code personnels, chargés automatiquement au début de chaque 
 - `frontend-design` — anthropics/skills
 - `drizzle-orm-expert` — sickn33/agentic-awesome-skills
 - `security-best-practices` — firecrawl/openai-skills
+- `remotion-*` (12 skills vidéo) — remotion-dev/skills
 
 Les sources exactes sont dans `skills-lock.json`.
 
