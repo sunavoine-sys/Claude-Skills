@@ -35,7 +35,7 @@
       "skillPath": "skills/react-best-practices/SKILL.md",
       "skillFolderHash": "3219a1944e404ffc14d1d9d6aef6dd2e3855b81387ee0a044ccbfe14d34c2357",
       "installedAt": "2026-10-12T13:32:25.762Z",
-      "updatedAt": "2026-10-12T13:32:25.762Z"
+      "updatedAt": "2026-10-12T13:47:50.254Z"
     },
     "vercel-react-native-skills": {
       "source": "vercel-labs/agent-skills",
@@ -119,6 +119,16 @@
       "skillFolderHash": "da388f632cd83783c02967446e21941c9ee8291ccb43ba74c23f7d4e9b7c298c",
       "installedAt": "2026-10-12T13:47:13.445Z",
       "updatedAt": "2026-10-12T13:47:13.445Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "89496d5dd00f4810205f351759594fc2742bf8eea85a2f2b2d1de59f4bd91576",
+      "pluginName": "example-skills",
+      "installedAt": "2026-10-12T13:49:26.863Z",
+      "updatedAt": "2026-10-12T13:49:26.863Z"
     }
   },
   "dismissed": {}
