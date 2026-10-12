@@ -138,6 +138,15 @@
       "skillFolderHash": "4fb8d5fd0e18f04a5fdd41dcbac883beabdd0cf4959fbdd51f2f854c6130cfcf",
       "installedAt": "2026-10-12T13:50:26.189Z",
       "updatedAt": "2026-10-12T13:50:26.189Z"
+    },
+    "security-best-practices": {
+      "source": "firecrawl/openai-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/firecrawl/openai-skills.git",
+      "skillPath": "skills/.curated/security-best-practices/SKILL.md",
+      "skillFolderHash": "c27616fb4e27999605b90b261dc729784420c8d77bd1a98748384ffaa5b35704",
+      "installedAt": "2026-10-12T13:51:59.929Z",
+      "updatedAt": "2026-10-12T13:51:59.929Z"
     }
   },
   "dismissed": {}
